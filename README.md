@@ -1,1 +1,3 @@
 # masters
+
+pip install Wuggy
